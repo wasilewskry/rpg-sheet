@@ -1,0 +1,6 @@
+@rpg_sheet_HostAddress = http://localhost:5106
+
+GET {{rpg_sheet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
